@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+*.py[cod]
+database/*.db
+database/*.sqlite*
+data/*.xlsx
+.venv/
+venv/
